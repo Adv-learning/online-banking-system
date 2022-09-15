@@ -149,7 +149,7 @@ int main(){
 				printf("Invalid password");
 			}	
 		}
-		printf("\n\n***Thank you for banking with ADV. bank***\n\n");
+		printf("\n\n***Thank you for banking with RAVI BANKING. bank***\n\n");
 	}
 	
 	return 0;
